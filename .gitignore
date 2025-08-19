@@ -1,0 +1,21 @@
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Build folders
+dist/
+build/
+out/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.venv/
+venv/
+
+devel/
+

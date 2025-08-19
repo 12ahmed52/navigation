@@ -1,0 +1,4 @@
+POLARIS_GEM_e2/polaris_gem_simulator/waypoint_logger
+/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/waypoint_logger/lib/pkgconfig/waypoint_logger.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/waypoint_logger.pc
+/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/waypoint_logger/share/waypoint_logger/cmake/waypoint_loggerConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/waypoint_logger/cmake/waypoint_loggerConfig-version.cmake
+/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/waypoint_logger/share/waypoint_logger/cmake/waypoint_loggerConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/waypoint_logger/cmake/waypoint_loggerConfig.cmake

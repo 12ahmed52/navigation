@@ -1,0 +1,4 @@
+Nonlinear_MPCC_for_autonomous_racing/nonlinear_mpc_casadi
+/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/nonlinear_mpc_casadi/lib/pkgconfig/nonlinear_mpc_casadi.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/nonlinear_mpc_casadi.pc
+/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/nonlinear_mpc_casadi/share/nonlinear_mpc_casadi/cmake/nonlinear_mpc_casadiConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/nonlinear_mpc_casadi/cmake/nonlinear_mpc_casadiConfig-version.cmake
+/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/nonlinear_mpc_casadi/share/nonlinear_mpc_casadi/cmake/nonlinear_mpc_casadiConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/nonlinear_mpc_casadi/cmake/nonlinear_mpc_casadiConfig.cmake
