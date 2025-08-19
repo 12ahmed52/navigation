@@ -1,4 +1,0 @@
-navigatoin_path_publisher
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/navigatoin_path_publisher/lib/pkgconfig/navigatoin_path_publisher.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/navigatoin_path_publisher.pc
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/navigatoin_path_publisher/share/navigatoin_path_publisher/cmake/navigatoin_path_publisherConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/navigatoin_path_publisher/cmake/navigatoin_path_publisherConfig-version.cmake
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/navigatoin_path_publisher/share/navigatoin_path_publisher/cmake/navigatoin_path_publisherConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/navigatoin_path_publisher/cmake/navigatoin_path_publisherConfig.cmake

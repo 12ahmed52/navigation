@@ -19,3 +19,6 @@ venv/
 
 devel/
 
+install/
+.catkin_tools
+

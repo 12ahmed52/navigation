@@ -1,4 +1,4 @@
 POLARIS_GEM_e2/polaris_gem_drivers_sim/gem_stanley_sim
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_stanley_sim/lib/pkgconfig/gem_stanley_sim.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/gem_stanley_sim.pc
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_stanley_sim/share/gem_stanley_sim/cmake/gem_stanley_simConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/gem_stanley_sim/cmake/gem_stanley_simConfig.cmake
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_stanley_sim/share/gem_stanley_sim/cmake/gem_stanley_simConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/gem_stanley_sim/cmake/gem_stanley_simConfig-version.cmake
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_stanley_sim/lib/pkgconfig/gem_stanley_sim.pc /home/ashraf/navigation/src/ros_apps/devel/lib/pkgconfig/gem_stanley_sim.pc
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_stanley_sim/share/gem_stanley_sim/cmake/gem_stanley_simConfig.cmake /home/ashraf/navigation/src/ros_apps/devel/share/gem_stanley_sim/cmake/gem_stanley_simConfig.cmake
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_stanley_sim/share/gem_stanley_sim/cmake/gem_stanley_simConfig-version.cmake /home/ashraf/navigation/src/ros_apps/devel/share/gem_stanley_sim/cmake/gem_stanley_simConfig-version.cmake

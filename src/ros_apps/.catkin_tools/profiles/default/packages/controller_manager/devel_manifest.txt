@@ -1,8 +1,0 @@
-controller_manager
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/lib/controller_manager/controller_manager_node.py /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/controller_manager/controller_manager_node.py
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/lib/controller_manager/Nonlinear_MPC_node.py /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/controller_manager/Nonlinear_MPC_node.py
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/lib/controller_manager/Mock_DoubleAck_Robot_node.py /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/controller_manager/Mock_DoubleAck_Robot_node.py
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/lib/controller_manager/Mock_Robot_node.py /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/controller_manager/Mock_Robot_node.py
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/controller_manager.pc
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/controller_manager/cmake/controller_managerConfig.cmake
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake

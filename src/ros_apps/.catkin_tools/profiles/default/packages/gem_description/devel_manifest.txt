@@ -1,4 +1,4 @@
 POLARIS_GEM_e2/polaris_gem_simulator/gem_simulator/gem_description
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_description/lib/pkgconfig/gem_description.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/gem_description.pc
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_description/share/gem_description/cmake/gem_descriptionConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/gem_description/cmake/gem_descriptionConfig-version.cmake
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_description/share/gem_description/cmake/gem_descriptionConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/gem_description/cmake/gem_descriptionConfig.cmake
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_description/lib/pkgconfig/gem_description.pc /home/ashraf/navigation/src/ros_apps/devel/lib/pkgconfig/gem_description.pc
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_description/share/gem_description/cmake/gem_descriptionConfig-version.cmake /home/ashraf/navigation/src/ros_apps/devel/share/gem_description/cmake/gem_descriptionConfig-version.cmake
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_description/share/gem_description/cmake/gem_descriptionConfig.cmake /home/ashraf/navigation/src/ros_apps/devel/share/gem_description/cmake/gem_descriptionConfig.cmake

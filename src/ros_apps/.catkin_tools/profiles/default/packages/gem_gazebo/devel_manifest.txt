@@ -1,6 +1,6 @@
 POLARIS_GEM_e2/polaris_gem_simulator/gem_simulator/gem_gazebo
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_gazebo/lib/pkgconfig/gem_gazebo.pc /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/pkgconfig/gem_gazebo.pc
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_gazebo/lib/gem_gazebo/gem_sensor_info.py /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/gem_gazebo/gem_sensor_info.py
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_gazebo/lib/gem_gazebo/gem_control.py /home/ashraf/navigation_assignment/src/ros_apps/devel/lib/gem_gazebo/gem_control.py
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_gazebo/share/gem_gazebo/cmake/gem_gazeboConfig-version.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/gem_gazebo/cmake/gem_gazeboConfig-version.cmake
-/home/ashraf/navigation_assignment/src/ros_apps/devel/.private/gem_gazebo/share/gem_gazebo/cmake/gem_gazeboConfig.cmake /home/ashraf/navigation_assignment/src/ros_apps/devel/share/gem_gazebo/cmake/gem_gazeboConfig.cmake
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_gazebo/lib/pkgconfig/gem_gazebo.pc /home/ashraf/navigation/src/ros_apps/devel/lib/pkgconfig/gem_gazebo.pc
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_gazebo/lib/gem_gazebo/gem_sensor_info.py /home/ashraf/navigation/src/ros_apps/devel/lib/gem_gazebo/gem_sensor_info.py
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_gazebo/lib/gem_gazebo/gem_control.py /home/ashraf/navigation/src/ros_apps/devel/lib/gem_gazebo/gem_control.py
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_gazebo/share/gem_gazebo/cmake/gem_gazeboConfig-version.cmake /home/ashraf/navigation/src/ros_apps/devel/share/gem_gazebo/cmake/gem_gazeboConfig-version.cmake
+/home/ashraf/navigation/src/ros_apps/devel/.private/gem_gazebo/share/gem_gazebo/cmake/gem_gazeboConfig.cmake /home/ashraf/navigation/src/ros_apps/devel/share/gem_gazebo/cmake/gem_gazeboConfig.cmake
